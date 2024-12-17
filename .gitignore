@@ -1,0 +1,18 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.ipch
+*.pdb
+Debug/
+Release/
+*.obj
+*.log
+*.tlog
+*.idb
+*.ilk
+*.suo
+*.user
+*.cache
+*.aps
+*.ncb
+*.opendb
+*.VC.db
